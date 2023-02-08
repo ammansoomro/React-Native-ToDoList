@@ -8,6 +8,7 @@ export default function App() {
     { text: 'Forspoken', key: '2' },
     { text: 'Borderlands 2', key: '3' },
     { text: 'Modern Warfare II', key: '4' },
+    { text: 'Modern Warfare III', key: '5' },
   ]);
 
   const PressHandler = (key) => {
